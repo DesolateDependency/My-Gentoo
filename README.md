@@ -1,4 +1,4 @@
-# My-dots
+# My-Gentoo
 ## Gentoo installation
 I used the following sources to collect information:
 - Gentoo amd64 handbook (https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Installation)
